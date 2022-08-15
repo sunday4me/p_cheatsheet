@@ -1,3 +1,3 @@
 # p_cheatsheet
 
-My Personnal Gatherng Cheatsheet
+My Personnal Gathering Cheatsheet
